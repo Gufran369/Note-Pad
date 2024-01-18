@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(50, 73, 66);
+    height: 100vh;
+    color: white;
+    
+    
+}
+li{
+    color: white;
+    font-size: 2rem;
+}
+h1{
+    text-align: center;
+}
+.center{
+    margin-left: 35%;
+    display: block;
+    text-align: center;
+    height: 300px;
+}
+.btn{
+    margin-left: 40%;
+    margin-top: 20px;
+    height: 40px;
+    width: 100px;
+    background-color: yellow;
+}
+
